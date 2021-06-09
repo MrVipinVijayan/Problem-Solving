@@ -1,5 +1,10 @@
 package solve.problem;
 
+/*
+ * HackerRank Problem Link
+ * https://www.hackerrank.com/challenges/chocolate-feast/problem?isFullScreen=true
+ */
+
 public class ChocolateFeast {
 
 	public static void main(String[] args) {
